@@ -1,0 +1,1 @@
+Couldn't find a way include blueprints in demo of factorio
