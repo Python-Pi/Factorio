@@ -1,5 +1,10 @@
 # prep_note.md
 
+#### Recording Video:
+
+- Video was not uploaded to git because of large file size.
+- The video is available at: https://drive.google.com/file/d/1UXhILeCl92N6_PavssQQQ51fmZh9lwXV/view?usp=sharing
+
 
 #### Yellow Belt Throughput: 
 
